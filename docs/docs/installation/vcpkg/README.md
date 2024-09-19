@@ -8,8 +8,8 @@ sidebarDepth: 0
 
 The community maintained ports are available for the majority of oatpp modules.  
 
-- [Vcpkg Website](https://docs.microsoft.com/en-us/cpp/build/vcpkg) - learn more about vcpkg.
-- [Available Ports](https://vcpkg.info/) - Search for 'oatpp'.
+- [Vcpkg Website](https://learn.microsoft.com/en-us/vcpkg/get_started/overview) - learn more about vcpkg.
+- [Available Ports](https://vcpkg.io/) - Search for 'oatpp'.
 
 ## Credits
 
